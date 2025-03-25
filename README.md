@@ -9,3 +9,6 @@ Enter two numbers when prompted.
 Choose an operation (+, -, *, /).
 
 The program displays the calculated result.
+
+👤 Namie Chepkorir
+📅 March 2025
